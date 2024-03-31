@@ -5,4 +5,11 @@ A bat file that shows stuff like your Ipv4 adress or gateway
 
 # How to use 
 
-Download Ip.bat and open it easy right ?
+Download Ip.bat and open.
+Easy right ?
+
+# Need help ? (how????)
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
+
+# Code request? 
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
